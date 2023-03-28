@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReVpwcS9VaTc3Rkg3alRlQzFsb1Z6ajdCYVkvdlladjVmRkVzekFxUlFUZVVWbEg4WEJsWU43ZFZsNlJ4MVdBTkt0KzRBN3dwQ3d3YUkwNUlMVjUvRWVraGxKb2FPTmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDAyNjcxCWZpbGU6dGF1cmktcGxheWdyb3VuZC5hcHAudGFyLmd6CituZC96eiszNll3K0E4alhOeUQzNzdETnhuc2o1RFdabHpMRkkza1E2YlRlWlJnYmtQSEl1eS93MFRMN0w3SVIrVmxRRjFpa2prRGlsc0VwenVtL0N3PT0K",
-      "url": "http://localhost:8000/releases/tauri-playground.app.tar.gz"
+      "url": "https://schleichardt.github.io/spring-playground/releases/tauri-playground.app.tar.gz"
     }
   }
 }
