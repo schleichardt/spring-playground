@@ -4,7 +4,7 @@
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReVpwcS9VaTc3Rkg3alRlQzFsb1Z6ajdCYVkvdlladjVmRkVzekFxUlFUZVVWbEg4WEJsWU43ZFZsNlJ4MVdBTkt0KzRBN3dwQ3d3YUkwNUlMVjUvRWVraGxKb2FPTmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDAyNjcxCWZpbGU6dGF1cmktcGxheWdyb3VuZC5hcHAudGFyLmd6CituZC96eiszNll3K0E4alhOeUQzNzdETnhuc2o1RFdabHpMRkkza1E2YlRlWlJnYmtQSEl1eS93MFRMN0w3SVIrVmxRRjFpa2prRGlsc0VwenVtL0N3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReVpwcS9VaTc3Rk4vZ1RocGQ2NXc5cTlDZkJ3R3Z5dFhGaitJdFZrNEJBbnBHSnc2TkVXZldQcE9YczIzYURKb0R6OEpPTnNJb3lhOFVudVc1aTRJdlJXckMyRWtKZHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDA0OTk4CWZpbGU6dGF1cmktcGxheWdyb3VuZC5hcHAudGFyLmd6Ck9uS2tBUFAxQ1NVRzIvMFdSZWNnZjY0aXZYTDlaaXZYKzRadDY2V3B1bWlJdXpMYnpnclVmY2tEemg2RE44aWxSWkllbWhWY0VnMHNWR2Z6Z2lXNURnPT0K",
       "url": "https://schleichardt.github.io/spring-playground/releases/tauri-playground.app.tar.gz"
     }
   }
