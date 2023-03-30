@@ -1,11 +1,11 @@
 {
-  "version": "v0.3.0",
+  "version": "v0.5.1",
   "notes": "Test version 3",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "pub_date": "2023-03-30T15:45:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReVpwcS9VaTc3RklYU1EwbFpmT1BNZUpBM0MvN1RjeXRyeFhXNFVLVWVQUXc1VTBFY0tSZm93Nm11bzhZeEpLMDdXYlFWSHYyTXVrQ0UwV05pN29XWHVXK2pKNDExdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDA3NTkxCWZpbGU6dGF1cmktcGxheWdyb3VuZC5hcHAudGFyLmd6Cmh6WXdqdVlZakw3cnk5NWdGeVZMRkx4RE1ZdEJ0dEJiRlE2NkJyL0c0bjVPWWVmV2YwY2trK0M1RmhSai9lWGZxbkF4eDhqTEVlTk00ZG0zSGRrZkFnPT0K",
-      "url": "https://schleichardt.github.io/spring-playground/releases/tauri-playground.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReVpwcS9VaTc3RkZ6TDBSVnB6U1Iremh6UGdYYzMrVGtIOEtiNkVqY0JJWU15TGRaQmM4MDcza2tIc2RyWjh4bzJzb0hRM05ab1BFcERnYmVTMktGNVdKaGVHL2R1QlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMTgzNjg2CWZpbGU6dGF1cmktcGxheWdyb3VuZC5hcHAudGFyLmd6CnBpamlISXFoTUxUQXpVbFE4YUpWTkltU1dRVTBaa2M4UTRHaldZdjQ0cW9BN1Z4SVVLR2tkTFZ6cjEwWDdISlg5VGhuZWZMbzBmeC9Ea3o3WVR1TEF3PT0K",
+      "url": "https://schleichardt.github.io/spring-playground/releases/tauri-playground-0.5.1.app.tar.gz"
     }
   }
 }
